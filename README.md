@@ -1,1 +1,1 @@
-# Memory Simon Game made using Jquery!
+# Memory Game- Simon, Created using Jquery!
